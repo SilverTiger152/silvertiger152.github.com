@@ -71,6 +71,6 @@ comments: true
 |28|<img src="http://SilverTiger152.github.io/assets/img/Lo.PNG">|**로 룬**|치명적 공격 20%|최대 번개 저항 +5%|A+|
 |29|<img src="http://SilverTiger152.github.io/assets/img/Sur.PNG">|수르 룬|적중 시 대상 실명|최대 마나 5% 증가, 마나 +50 (방패에 박을 시)|B|
 |30|<img src="http://SilverTiger152.github.io/assets/img/Ber.PNG">|**베르 룬**|강타 확률 20%|피해 8% 감소|A+|
-|31|<img src="http://SilverTiger152.github.io/assets/img/Jah.PNG">|**자 룬**|대상의 방어력 무시|최대 생명력 5% 증가, 생명력 +50 (방패에 박을 시)|A+|
+|31|<img src="http://SilverTiger152.github.io/assets/img/Jah2.PNG">|**자 룬**|대상의 방어력 무시|최대 생명력 5% 증가, 생명력 +50 (방패에 박을 시)|A+|
 |32|<img src="http://SilverTiger152.github.io/assets/img/Cham.PNG">|참 룬|대상 빙결 +3|빙결되지 않음|A|
 |33|<img src="http://SilverTiger152.github.io/assets/img/Zod.PNG">|조드 룬|파괴 불가|파괴 불가|B|
