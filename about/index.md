@@ -9,16 +9,12 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* 게임을 좋아합니다
+* 디아블로를 좋아합니다 :P
+* 룬워드 직작하기를 좋아합니다 :D
+* 디아블로 2 도박에서 좋은게 안나옵니다 ㅠ_ㅠ
+* 처음으로 직득한 고급룬은 지옥 헬포지에서 얻은 굴 룬입니다 :3
+* 고양이를 좋아합니다 :>
 
 ## Preview
 
