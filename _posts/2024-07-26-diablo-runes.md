@@ -7,6 +7,35 @@ tag:
 - markdown
 comments: true
 ---
+<style>
+  /* 2way헤더와 라인포인트*/
+  table {
+      border-collapse: collapse;
+      text-align: left;
+      line-height: 1.5;
+  }
+  table thead th {
+      text-align: center;
+      padding: 10px;
+      font-weight: bold;
+      vertical-align: top;
+      color: #1b3453;
+      border-top: 2px solid #1b3453;
+      border-bottom: 2px solid #1b3453;
+  }
+  table tbody th {
+      padding: 10px 15px;
+      font-weight: bold;
+      vertical-align: top;
+      border-bottom: 1px solid #ccc;
+      background: #f3f6f7;
+  }
+  table td {
+      padding: 10px 15px;
+      vertical-align: top;
+      border-bottom: 1px solid #ccc;
+  }
+</style>
 # 룬의 종류
 ## 룬에 대한 평가는 알파벳으로 매겨지며, E 등급부터 A+ 등급까지 있습니다. 룬에 대한 평가는 매우 **주관적**입니다. (스탠 기준)
 
