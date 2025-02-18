@@ -11,4 +11,4 @@ comments: true
 ## **그런데 문제가 발생했습니다.**<br>
 이벤트에서 아무리 찾아봐도 제가 원하는 게 없더라구요. 그래서 전 우리의 영원한 친구 챗쥐피띠 에게 물어보기로 했습니다.<br>
 # <span style="color:red">여기서부터 저는 고통받기 시작합니다.</span><br>
-<img src="https://github.com/SilverTiger152/silvertiger152.github.com/tree/main/assets/img/gpt/gpt1">
+<img src="https://github.com/SilverTiger152/silvertiger152.github.com/tree/main/assets/img/gpt/gpt1.PNG">
