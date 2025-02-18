@@ -8,7 +8,6 @@ tag:
 comments: true
 ---
 <style>
-  /* 2way헤더와 라인포인트*/
   table {
       border-collapse: collapse;
       text-align: left;
