@@ -22,6 +22,7 @@ comments: true
 저택에서 책 확인할 때 책장에서 상호작용 키 누르면 확인할 수 있습니다.<br>
 대부분 선택지에서 ESC 키를 누르면 나갈 수 있습니다.
 
-게임 너무 불친절하게 만든 거 같아서 좀 슬프네요ㅠㅠ
+# 경고: 심각한 망겜이며 버그도 많고 재미도 없고 불친절합니다.
+게임 너무 이상하게 만든 거 같아서 좀 슬프네요ㅠㅠ
 
 [다운로드하긔ㅣㅣㅣㅣㅣㅣㅣ](https://github.com/SilverTiger152/silvertiger152.github.com/raw/master/Project1.exe)
