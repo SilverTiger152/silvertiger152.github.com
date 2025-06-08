@@ -24,6 +24,6 @@ comments: true
 대부분 선택지에서 ESC 키를 누르면 나갈 수 있습니다.
 
 # 경고: 매우 불친절하고 버그가 많습니다.
-무의식의 흐름대로 만들어서 게임이 이상합니다ㅋㅋ
+무의식의 흐름대로 만들어서 게임이 이상해요ㅋㅋ
 
 [다운로드하긔ㅣㅣㅣㅣㅣㅣㅣ](https://github.com/SilverTiger152/silvertiger152.github.com/raw/master/Project1.exe)
