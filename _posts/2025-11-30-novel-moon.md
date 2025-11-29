@@ -9,4 +9,5 @@ comments: true
 # 자다가 잠이 안와서 단편소설을 하나 썼봤습니다.
 ## 짧아서 나중에 심심할 때 한 번 읽어보세요ㅎㅎ
 
-[보기](https://github.com/SilverTiger152/silvertiger152.github.com/raw/main/assets/[달은 항상 빛난다].txt)
+<br>
+[보기](https://github.com/SilverTiger152/silvertiger152.github.com/raw/main/assets/[MoonAlwaysShine].txt)
