@@ -10,4 +10,4 @@ comments: true
 ## 짧으니까 나중에 심심할 때 한 번 읽어보세요ㅎㅎ
 
 <br>
-[보기](https://github.com/SilverTiger152/silvertiger152.github.com/raw/main/assets/[MoonAlwaysShine].txt)
+[보기](https://github.com/SilverTiger152/silvertiger152.github.com/raw/main/assets/%5BMoonAlwaysShine%5D.txt)
